@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+body {
+    /* background-color: aquamarine; */
+    background-image: url('../image/bgimage.png');
+}
+
+.card-header {
+    background-color: #ec0763;
+    color: white;
+}
+
+.navbar {
+    background-color: #187869;
+    color: white;
+}
+
+.navbar-brand {
+    color: #fff;
+}
